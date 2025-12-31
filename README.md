@@ -60,6 +60,9 @@ Interactive ordering and cart system with dynamic pricing.
 - JSON-based data persistence  
 - Built with JavaFX for clean GUI interactions  
 
+-----------------------------
+# Current Projects
+
 ** In Development **
 ### **Dart + Flutter Mobile Development**
 Working on responsive mobile interfaces using Flutter.  
