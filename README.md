@@ -41,12 +41,6 @@ I love solving complex problems, learning new technologies, and building clean, 
 -----------------------------
 # Featured Projects
 
-### **Spring Framework Request Handler**
-RESTful CRUD API using Spring Framework.  
-- Implemented GET/POST/PUT/DELETE operations  
-- Controller-based routing and JSON serialization  
-- Modular architecture with clean error handling  
-
 ### **Maze Generator & Solver**
 Java-based maze generator with multiple solving algorithms.  
 - Recursive backtracking generation  
@@ -64,6 +58,13 @@ Interactive ordering and cart system with dynamic pricing.
 # Current Projects
 
 ** In Development **
+
+### **Spring Framework Request Handler**
+RESTful CRUD API using Spring Framework.  
+- Implemented GET/POST/PUT/DELETE operations  
+- Controller-based routing and JSON serialization  
+- Modular architecture with clean error handling  
+
 ### **Dart + Flutter Mobile Development**
 Working on responsive mobile interfaces using Flutter.  
 - Cross-platform UI components  
