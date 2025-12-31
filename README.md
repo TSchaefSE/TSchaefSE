@@ -70,7 +70,7 @@ Working on responsive mobile interfaces using Flutter.
 -----------------------------
 # What I am learning currently
 
-- Advanced Fluteer development to further implement into my most recent project
+- Advanced Flutter development to further implement into my most recent project
 - Frontend workflows with React
 - Cloud & Deployment Basics
 
