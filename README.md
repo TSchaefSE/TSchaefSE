@@ -14,9 +14,7 @@ I love solving complex problems, learning new technologies, and building clean, 
 - React
 - Javascript
 - Python
-- C++
-- C#
-- SQL
+- SQL 
 - HTML & CSS
 
 ### Frameworks & Tools
@@ -36,7 +34,7 @@ I love solving complex problems, learning new technologies, and building clean, 
 - GUI Design & UX Principles
 - Data Persistence & File I/O
 - Debugging & Problem Solving
-- Leadership in HIgh-pressure Environments
+- Leadership in High-pressure Environments
 
 -----------------------------
 # Featured Projects
