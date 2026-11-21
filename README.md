@@ -29,6 +29,20 @@ The system combines engineering-based mathematical models, historical cylinder b
 
 Developed as a semester-long software engineering capstone, CBAS progressed through three development milestones and culminated in the **v1.0.0 release**, delivering a fully integrated desktop application with automated testing, engineering reports, predictive analysis, and data export capabilities.
 
+#### Application Screenshots
+
+**Dashboard and Batch Risk Overview**
+
+![CBAS Dashboard](images/cbas/dashboard.png)
+
+**Batch Analysis and Strength Prediction**
+
+![CBAS Batch Analysis](images/cbas/batch-analysis.png)
+
+**Prediction Calibration and Cylinder Break Results**
+
+![CBAS Prediction Calibration](images/cbas/predictions.png)
+
 **Key Features — v1.0.0**
 
 - **Strength Prediction Engine:** Estimates concrete compressive strength at 3, 7, and 28 days using deterministic engineering models.
